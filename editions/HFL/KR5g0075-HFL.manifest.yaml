@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0075/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5g0075/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 鄧天君玄靈八門報應內旨
+  date: '2015-08-29 02:53:47.924959'
+  source:
+    repository: kanripo
+    path: KR5g0075
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0075_000-HFL.yaml, hash: 'sha256:4e398dffaebc083e127170b8291c7f954c68ba32ceaaa00fc7ba81f0173993de'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0075_000-HFL.markers.yaml, hash: 'sha256:88c9ba8f8f273140d31401efffbc53acce1e55ad828c22130d273ecd4ff3bb1f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0075_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 3243
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:53105c6e1a460341fcb827983ba7337ab5d36a668b739483f680fa67f8a1f3b9
